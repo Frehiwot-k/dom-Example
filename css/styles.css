@@ -1,0 +1,34 @@
+ul {
+  list-style: none;
+  max-width: 300px;
+}
+li {
+  border-bottom: 1px solid #ccc;
+  padding: 20px;
+  font-size: 20px;
+  font-weight: 700;
+}
+.red {
+  background: #f56a79;
+}
+.yellow {
+  background: #ffefa0;
+}
+.green {
+  background: #03c4a1;
+}
+.orange {
+  background: #f08a5d;
+}
+.pink {
+  background: #ffcbcb;
+}
+.black {
+  background: black;
+}
+.hamrawi {
+  background: #9d65c9;
+}
+.blue {
+  background: #133b5c;
+}
